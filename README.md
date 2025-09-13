@@ -1,2 +1,2 @@
-# Inspeccion-IA
-Robot de Inspección Autónoma con Verificación de Anomalías
+#Robot de laberinto con sensores integrados
+:3
